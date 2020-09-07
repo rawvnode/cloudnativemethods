@@ -1,4 +1,4 @@
-baseURL: https://rawvnode.github.io/methods
+baseURL: https://rawvnode.github.io/cloudnativemethods
 languageCode: en-us
 defaultContentLanguage: en
 title: Methods
@@ -42,7 +42,7 @@ menu:
       url: /
       weight: 1
     - name: Methods
-      url: https://cloudnativemethods.com/methods/post/
+      url: /post/
       weight: 2
     - name: Tags
       url: /tags/
